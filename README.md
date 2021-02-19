@@ -1,5 +1,5 @@
 # Portainer Templates for Selfhosted Projects/Homelabs
-# Raspberry Pi 4 edition (Work In Progress)
+## Raspberry Pi 4 edition (Work In Progress)
 
 This is a set of templates focused on helping people spin up selfhosted services using Portainer. Weather it is version 1 or 2 or even a custom list.
 
