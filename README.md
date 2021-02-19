@@ -1,11 +1,11 @@
-
 # Portainer Templates for Selfhosted Projects/Homelabs
+# Raspberry Pi 4 edition (Work In Progress)
 
 This is a set of templates focused on helping people spin up selfhosted services using Portainer. Weather it is version 1 or 2 or even a custom list.
 
 ### Prerequisites
 
-1. A server/NAS with docker installed
+1. A Raspberry Pi 4 with docker installed
 2. A Portainer setup.
 
 *Want something we don't have? Make an issue and we'll work on adding it*
