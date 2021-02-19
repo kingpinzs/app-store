@@ -79,6 +79,7 @@ All templates are already configured to bind mount to various places on your dri
 - heimdall
 - htpcmanager
 - jackett
+- jellyfin (RASP4 Hardware acceleration)
 - kodi-headless
 - lazylibrarian
 - letsencrypt / SWAG
