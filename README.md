@@ -16,7 +16,7 @@ This is a set of templates focused on helping people spin up selfhosted services
 2. Enable Use external templates
 3. Add one of the following urls then go to app templates and hit refresh at the top: 
 `https://raw.githubusercontent.com/BuckeyeStudios/app-store/master/Portainer-v1/template.json`
-`https://raw.githubusercontent.com/BuckeyeStudios/app-store/master/Portainer-v2/template.json`
+`https://raw.githubusercontent.com/kingpinzs/app-store/master/Portainer-v2/template.json`
 `https://raw.githubusercontent.com/BuckeyeStudios/app-store/master/Network-Monitor/template.json`
 
 ### Information
