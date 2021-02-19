@@ -1499,7 +1499,9 @@
 			"platform": "linux",
 			"ports": [
 				"8096:8096/tcp",
-				"8920:8920/tcp"
+				"8920:8920/tcp",
+				"7359:7359/udp",
+				"1900:1900/udp"
 			],
 			"restart_policy": "unless-stopped",
 			"title": "Jellyfin",
@@ -1516,6 +1518,15 @@
 				{
 					"bind": "/portainer/Movies",
 					"container": "/data/movies"
+				},
+				{
+					"bind": "/opt/vc/lib",
+					"container": "/opt/vc/lib"
+				}
+			],
+			"devices": [
+				{
+					/dev/vchiq:/dev/vchiq
 				}
 			]
 		},
