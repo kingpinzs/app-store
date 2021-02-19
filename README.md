@@ -61,7 +61,7 @@ All templates are already configured to bind mount to various places on your dri
 - airsonic
 - beets
 - booksonic
-- bookstack
+- bookstack (Wont load)
 - calibre-web
 - Chevereto
 - codiad
